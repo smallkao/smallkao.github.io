@@ -39,6 +39,6 @@ $(document).ready(function() {
     }
   });
     $('.resume .wrap').smoove({moveY:'40%'});
-    $('.skill .wrap').smoove({moveY:'60%'});
+    $('.skill .wrap').smoove({moveY:'45%'});
     $('.contact .wrap').smoove({moveY:'60%'});
 });
